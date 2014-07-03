@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.print("\"Hello World\" ");
 		System.out.println("to dziwny napis");
 		System.out.println("to dziwny napis");
+		System.out.println("to dziwny napis");
 	}
 
 }
